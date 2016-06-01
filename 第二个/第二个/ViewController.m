@@ -17,8 +17,11 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+<<<<<<< HEAD
     NSLog(@"------11111111");
     NSLog(@"------2222222222");
+=======
+>>>>>>> parent of 79a8fff... yake
 }
 
 - (void)didReceiveMemoryWarning {
